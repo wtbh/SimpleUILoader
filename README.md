@@ -116,6 +116,6 @@ ui_loader.setRefreshListener(object : SimpleUILoaderLayout.OnUIRefreshListener {
 
 ### 其它
 
-1. 有问题欢迎提交`issure`
+1. 有问题欢迎提交`issues`
 
 2. 状态图标来源[iconfont](https://www.iconfont.cn/)，侵删
