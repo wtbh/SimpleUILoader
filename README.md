@@ -12,7 +12,7 @@
 
 <img src='Screenshot/GIF.gif' width = '300' style="float:left"   />
 
-### 添加`SimpleUILoader`到的项目
+### 添加`SimpleUILoader`到你的项目
 
 1. 在项目的 `build.gradle` 中添加：
 
