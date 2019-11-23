@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">simpleuiloaderlib</string>
+    <string name="str_data_empty">網絡錯誤，點擊重試</string>
+    <string name="str_loading">加載中...</string>
+    <string name="str_net_error">網絡錯誤，點擊重試</string>
+</resources>

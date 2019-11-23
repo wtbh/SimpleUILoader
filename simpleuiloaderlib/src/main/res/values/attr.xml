@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SimpleUILoaderLayout">
+        <!--Loading layout-->
+        <attr name="loadingLayout" format="reference" />
+        <!--Net error layout-->
+        <attr name="netErrorLayout" format="reference" />
+        <!--Data empty-->
+        <attr name="dataEmptyLayout" format="reference" />
+    </declare-styleable>
+
+</resources>

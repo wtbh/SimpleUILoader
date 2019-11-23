@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">simpleuiloaderlib</string>
+    <string name="str_data_empty">The data is empty, click Retry</string>
+    <string name="str_loading">Loading…</string>
+    <string name="str_net_error">Network error, click retry</string>
+</resources>
